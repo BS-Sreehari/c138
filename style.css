@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background : linear-gradient(#dbfc03, #fce303)
+}
+
+h1 {
+    width: 100%;
+    height: fit-content;
+    font-size: 30px;
+    background-color: green;
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+
+h3 {
+    font-family: 'Comic Neue', cursive;
+}
+
+input {
+    width: 500px;
+}
+canvas
+{
+box-shadow: 5px 5px 5px lightgrey;
+border-radius: 10px;
+margin-top: 180px;
+}
+
